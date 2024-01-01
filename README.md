@@ -7,10 +7,4 @@ Welcome to the Café Menu Database System, a comprehensive solution for managing
 - **Browse Menus**: Users can view the entire cafe menu with details including price, ingredients, and more.
 - **Search Functionality**: Customers can search for their favorite dishes or beverages.
 - **Order Management**: Seamless adding and deleting of orders to cater to customer needs.
-- **Robust Backend**: Utilizing SQL for database management, Node.js, and Express for server-side functionality.
-
-## Getting Started
-### Prerequisites
-- Node.js
-- npm or Yarn
-- SQL Database
+- **Robust Backend**: Utilizing SQL for database management, Node.js, and Express for server-side functional 
